@@ -7,3 +7,7 @@
 
 
 Feel Free to Contect Me 🤗
+
+![ChunBaee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChunBaee&show_icons=true&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mljung10)](https://solved.ac/mljung10)
